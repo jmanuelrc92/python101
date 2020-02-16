@@ -1,6 +1,6 @@
 """Ejercicio 5
-Escribir un programa que convierta un valor dado en grados Fahrenheit a grados Celsius. Recordar que la fórmula para la conversión es:
-
+Escribir un programa que convierta un valor dado en grados Fahrenheit a grados Celsius.
+Recordar que la fórmula para la conversión es:
 C = (F-32)*5/9"""
 fahrenheit = float(input("Ingrese la temperatura en grados Fahrenheit: "))
 celsius = (fahrenheit-32)*5/9
