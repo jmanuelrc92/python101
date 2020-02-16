@@ -12,7 +12,7 @@ while i < 3:
     i = i + 1
 i = 0
 while i <3:
-    comisiones += ventasDelMes[i]*0.01
+    comisiones += ventasDelMes[i]*0.1
     i = i + 1
 print("Total por comisiones: " + str(comisiones))
 print("Total del mes: " + str(comisiones + sueldoBase))
