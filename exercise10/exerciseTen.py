@@ -12,8 +12,8 @@ while i < 3:
     grade = float(input(inputMessage))
     if grade > 0:
         grade = grade/3
-    partialGrade = partialGrade + grade
-    i = i + 1
+    partialGrade += grade
+    i += 1
 finalTestGrade = float(input("Ingrese calificacion de examen final: "))
 finalProjectGrade = float(input("Ingrese calificacion de proyecto final: "))
 
