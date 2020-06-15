@@ -9,10 +9,10 @@ ventasDelMes = [0,0,0]
 i = 0
 while i < 3:
     ventasDelMes[i] = float(input("Ingrese una venta: "))
-    i = i + 1
+    i += 1
 i = 0
 while i <3:
     comisiones += ventasDelMes[i]*0.1
-    i = i + 1
+    i += 1
 print("Total por comisiones: " + str(comisiones))
 print("Total del mes: " + str(comisiones + sueldoBase))

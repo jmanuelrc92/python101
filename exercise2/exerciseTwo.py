@@ -1,5 +1,4 @@
 """Exercise two
-Calculate
 Calcular el perímetro y área de un rectángulo dada su base y su altura."""
 base = float(input("Ingrese la medida de la base del rectangulo: "))
 height = float(input("Ingrese la medida de la altura del rectangulo: "))
