@@ -30,20 +30,23 @@ Make a program that receives a number of minutes and shows on the screen how man
 > 1000 minutes is 16 hours and 40 minutes.
 
 ## Exercise 8.
-A seller receives a base salary plus an extra 10% commission on their sales,
-the seller wants to know how much money he will get for commissions
-for the three sales you make in the month and the total you will receive in the month
-taking into account your base salary and commissions.
+A seller receives a base salary plus an extra 10% commission on their sales, the seller wants to know how much money he will get for commissions for the three sales you make in the month and the total you will receive in the month taking into account your base salary and commissions.
 
 ## Exercise 9.
 A store offers a 15% discount on the total purchase and a customer want to know how much should he finally pay for your purchase.
 
 ## Exercise 10.
 A student wants to know what their final grade will be in the matter of Algorithms.
+
 That grade is made up of the following percentages:
 - 55% of the average of their three partial grades.
 - 30% of the final exam grade.
 - 15% of the final work grade.
+
+## Exercise 14.
+Given a two-digit number, design an algorithm to obtain the inverted number.
+
+Example, if 23 is entered showing 32.
 
 # Algorithms.
 
