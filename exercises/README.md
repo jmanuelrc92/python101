@@ -43,6 +43,11 @@ That grade is made up of the following percentages:
 - 30% of the final exam grade.
 - 15% of the final work grade.
 
+## Exercise 11.
+Ask the user two numbers, and show "the distance" between them.
+
+- Distance: The absolute value of the difference between them.
+
 ## Exercise 14.
 Given a two-digit number, design an algorithm to obtain the inverted number.
 
